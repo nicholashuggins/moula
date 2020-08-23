@@ -12,6 +12,8 @@
     <Compile Remove="Migrations\20200821211703_addPaymentRef.Designer.cs" />
     <Compile Remove="Migrations\20200822095958_test.cs" />
     <Compile Remove="Migrations\20200822095958_test.Designer.cs" />
+    <Compile Remove="Migrations\20200823230114_test.cs" />
+    <Compile Remove="Migrations\20200823230114_test.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>
